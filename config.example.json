@@ -1,0 +1,15 @@
+{
+  "shield": {
+    "ip": "192.168.1.100",
+    "port": 5555,
+    "wakeDelayMs": 3000
+  },
+  "serviio": {
+    "ip": "192.168.1.50",
+    "port": 23423
+  },
+  "upnp": {
+    "discoveryTimeoutMs": 5000,
+    "searchTimeoutMs": 10000
+  }
+}
